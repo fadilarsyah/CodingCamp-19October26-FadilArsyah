@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+.vscode/
+*.code-workspace
+
+# Logs / temp
+*.log
+*.tmp
+
+# Node (not used here, but safe to include)
+node_modules/
+
+# DO NOT ignore .kiro — it should be committed so teammates
+# inherit the same project steering and agent configuration.
+# .kiro/
